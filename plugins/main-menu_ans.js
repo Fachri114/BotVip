@@ -38,7 +38,7 @@ Bot ini bisa membantu kamu atau mempermudah kamu membuat sesuatu atau pun mendow
            },
                {
              quickReplyButton: {
-               displayText: 'SOURCE CODE',
+               displayText: 'Vanz X Kahfi',
                id: '.sc',
              }
              
