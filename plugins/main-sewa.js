@@ -9,8 +9,8 @@ let anu = `Hallo mypren 👋
 ━━━〔 ıll *Sewa Bot* llı 〕━━ꕥ
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━ꕥ
-⬡ *1 BULAN:* *5.000*
-⬡ *PERMANEN 2 grup:* *10.000*
+⬡ *1 BULAN:* *20.000*
+⬡ *PERMANEN Unli grup:* *50.000*
 ⬡ *PERMANEN 3-6 grup:* *20.000*
 ⬡ *lebih dari 6 tambah +5.000*
 ┗━━━━━━━━━━━━━━━ꕥ
