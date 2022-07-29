@@ -8,32 +8,32 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282195322106']
-global.mods = ['6282195322106']
-global.prems = ['6282195322106']
+global.owner = ['6285380166282']
+global.mods = ['6285380166282']
+global.prems = ['6285380166282']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ nomor developerঔৣ꧂'
-global.numberowner = '6282195322106'
-global.instagram = 'https://instagram.com'
-global.github = 'https://github.com'
-global.tt = 'https://vt.tiktok.com/'
-global.sc = 'https://github.com'
-global.ss = 'https://youtu.be'
-global.sss = 'https://youtu.be'
-global.yt = 'https://m.youtube.com'
-global.dana = '6282195322106'
-global.pulsa = '6282195322106'
-global.gopay = '6282195322106'
+global.nameowner = 'Kahfi-XD'
+global.numberowner = '6285380166282'
+global.instagram = 'https://instagram.com/Kahfi_ofc'
+global.github = 'https://github.com/Kahfi-XD'
+global.tt = 'https://vt.tiktok.com/ZSRYtsmGD/'
+global.sc = 'https://github.com/Kahfi-XD'
+global.ss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.sss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.yt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.dana = '6285380166282'
+global.pulsa = '6285380166282'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Hinata-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com'
-global.web = 'https://s.id/Cerdasin62' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com'
-global.saweria = 'https://saweria.co/'
-global.nomer = 'https://wa.me/6282195322106' //ganti jadi nomor mu
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.namebot = '❋ཻུ۪۪⸙Vanz-BOTZ⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/EArOqvYKMvMKB5zdXJFVxg'
+global.web = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/Kahfi_ofc'
+global.saweria = 'https://saweria.co/Kahfiaja'
+global.nomer = 'https://wa.me/6285380166282' //ganti jadi nomor mu
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 50.000\nMAKSIMAL Unli GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 20.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
@@ -47,10 +47,10 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Hinata-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙Vanz-Botz⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Wudysoff'
-global.wm3 = 'ᯤ Hinata'
+global.wm2 = 'ᯤ creator by Kahfi Official 🇮🇩'
+global.wm3 = 'ᯤ Vanz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -61,7 +61,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Tunggu, Stiker sedang Di Proses'
 global.packname = 'Created By'
-global.author = 'Hinata Md'
+global.author = 'Kahfi-XD'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
