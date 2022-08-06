@@ -8,22 +8,22 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285380166282']
-global.mods = ['6285380166282']
-global.prems = ['6285380166282']
+global.owner = ['6288227758096']
+global.mods = ['6288227758096']
+global.prems = ['6288227758096']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Kahfi-XD'
-global.numberowner = '6285380166282'
-global.instagram = 'https://instagram.com/Kahfi_ofc'
-global.github = 'https://github.com/Kahfi-XD'
-global.tt = 'https://vt.tiktok.com/ZSRYtsmGD/'
-global.sc = 'https://github.com/Kahfi-XD'
-global.ss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.sss = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.yt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
-global.dana = '6285380166282'
-global.pulsa = '6285380166282'
+global.nameowner = 'Fachri-OFc'
+global.numberowner = '6288227758096'
+global.instagram = 'https://instagram.com/Fachrination'
+global.github = 'https://github.com/Fachri114'
+global.tt = 'https://vt.tiktok.com/𝘍𝙖𝙘𝙝𝙧𝙞 冬 '
+global.sc = 'https://github.com/Sleber'
+global.ss = 'private ngab'
+global.sss = 'https://utiwi'
+global.yt = 'utiwi'
+global.dana = '6288227758096'
+global.pulsa = '6288227758096'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
@@ -49,7 +49,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙Vanz-Botz⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Kahfi Official 🇮🇩'
+global.wm2 = 'ᯤ creator by Fachri'
 global.wm3 = 'ᯤ Vanz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
